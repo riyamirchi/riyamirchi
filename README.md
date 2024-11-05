@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Riya mirchandani
-- 👀 I’m programmer and 
+- 👀 I’m programmer 
 - ✨ I’m intrested in buiding websites
 - 🌱 I’m currently learning frameworks like reactjs
 - 📫 How to reach me riyamirchandani11@gmail.com
