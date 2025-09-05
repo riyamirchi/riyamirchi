@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Riya mirchandani
-- 👀 I’m programmer 
-- ✨ I’m intrested in buiding websites
-- 🌱 I’m currently learning frameworks like reactjs
+- ✨ I’m Python Devloper intrested in buiding AI projects
+- 🌱 I’m currently learning frameworks like NumPy, Pandas, Scikit-Learn
 - 📫 How to reach me riyamirchandani11@gmail.com
+- ⚡ Fun fact : AI can’t replace creativity – but I’m teaching it to learn from me
 
 
 
